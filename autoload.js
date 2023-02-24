@@ -42,7 +42,6 @@ if (screen.width >= 768) {
 }
 
 console.log(`
-	amiliko
   く__,.ヘヽ.        /  ,ー､ 〉
            ＼ ', !-─‐-i  /  /´
            ／｀ｰ'       L/／｀ヽ､
